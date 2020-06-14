@@ -1,2 +1,2 @@
 # Trabalho
-Trabalho Teoria da Computação
+Trabalho Desenvolvimento de Software
